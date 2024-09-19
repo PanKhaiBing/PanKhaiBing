@@ -2,7 +2,7 @@
 
 **Python | Tableau | Machine Learning**
 
-Passionate about transforming raw data into meaningful insights that brings value to the company. Specialize in data cleaning, exploration and visualization. 
+Passionate about transforming raw data into meaningful insights to bring value to the company. Specialize in data cleaning, exploration and visualization. 
 This portfolio highlights some of the projects I've worked on using Python, SQL, and various data tools.
 
 ## 🛠 Skills
