@@ -6,7 +6,7 @@ Passionate about transforming raw data into meaningful insights to bring value t
 This portfolio highlights some of the projects I've worked on using Python, SQL, and various data tools.
 
 ## 🛠 Skills
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy, Matplotlib)
 - Excel (Data Cleaning, Pivot Tables)
 - Tableau (Dashboards, Data Visualization)
 
