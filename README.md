@@ -2,7 +2,7 @@
 
 **Python | Tableau | Machine Learning**
 
-Passionate about transforming raw data into meaningful insights to bring value to the company. Specialize in data cleaning, exploration and visualization. 
+Passionate about transforming raw data into meaningful insights to bring value to the company. Specialize in data cleaning, data manipulation, exploration and visualization. 
 This portfolio highlights some of the projects I've worked on using Python, SQL, and various data tools.
 
 ## 🛠 Skills
@@ -10,9 +10,9 @@ This portfolio highlights some of the projects I've worked on using Python, SQL,
 - Excel (Data Cleaning, Pivot Tables)
 - Tableau (Dashboards, Data Visualization)
 
-
 ## 📂 Projects
-- **Sales Analysis:** Analyzed retail datasets by performing data cleaning and exploratory data analysis, using Python to uncover sales trends and insights.
+- **Sales Analysis:** Analyzed retail datasets by performing data cleaning and exploratory data analysis (EDA), using Pandas and Matplotlib to uncover sales trends and insights.
+- **Data Cleaning for Shein Appliance:**  Perform data cleaning and transform the datasets into useable datasets.
 
 ## 📬 Connect with me
 LinkedIn : https://www.linkedin.com/in/pan-khai-bing-/
