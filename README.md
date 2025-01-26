@@ -6,13 +6,13 @@ FinTech fresh graduate from UCD who passionate about transforming raw data into 
 This portfolio highlights some of the projects I've worked on using Python, SQL, and various data tools.
 
 ## 🛠 Skills
-- Python (Pandas, NumPy, Matplotlib)
-- Excel (Data Cleaning, Pivot Tables)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Machine Learning (Scikit-learn, Statsmodels)
 - Tableau (Dashboards, Data Visualization)
 
 ## 📂 Projects
-- **Sales Analysis:** Analyzed retail datasets by performing data cleaning and exploratory data analysis (EDA), using Pandas and Matplotlib to uncover sales trends and insights.
-- **Data Cleaning for Shein Appliance:**  Perform data cleaning and transform the datasets into useable datasets.
+- Sales Analysis: Analyze retail datasets by performing data cleaning and exploratory data analysis (EDA), using Pandas and Matplotlib to uncover sales trends and insights.
+- Bank Telemarketing Data Analysis: Analyze bank telemarketing campaign data to provide insights and build predictive models on predicting customer term deposit subscriptions.
 
 ## 📬 Connect with me
 LinkedIn : https://www.linkedin.com/in/pan-khai-bing-/
