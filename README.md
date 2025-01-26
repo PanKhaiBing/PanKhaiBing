@@ -11,8 +11,11 @@ This portfolio highlights some of the projects I've worked on using Python, SQL,
 - Tableau (Dashboards, Data Visualization)
 
 ## 📂 Projects
-- Sales Analysis: Analyze retail datasets by performing data cleaning and exploratory data analysis (EDA), using Pandas and Matplotlib to uncover sales trends and insights.
-- Bank Telemarketing Data Analysis: Analyze bank telemarketing campaign data to provide insights and build predictive models on predicting customer term deposit subscriptions.
+- Sales Analysis
+  Analyze retail datasets by performing data cleaning and exploratory data analysis (EDA), using Pandas and Matplotlib to uncover sales trends and insights.
+  
+- Bank Telemarketing Data Analysis
+  Analyze bank telemarketing campaign data to provide insights and build predictive models on predicting customer term deposit subscriptions.
 
 ## 📬 Connect with me
 LinkedIn : https://www.linkedin.com/in/pan-khai-bing-/
