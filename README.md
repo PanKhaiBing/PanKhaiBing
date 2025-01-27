@@ -3,7 +3,7 @@
 **Python | Tableau | Machine Learning**
 
 FinTech fresh graduate from UCD who passionate about transforming raw data into meaningful insights which brings value to the company. Specialize in data cleaning, data manipulation, exploration and visualization. 
-This portfolio highlights some of the projects I've worked on using Python, SQL, and various data tools.
+This portfolio highlights some of the projects I've worked on using Python and various data tools.
 
 ## 🛠 Skills
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
