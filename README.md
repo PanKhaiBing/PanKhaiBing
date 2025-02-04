@@ -19,7 +19,7 @@ Sales Analysis
   
 ## 📬 Connect with me
 LinkedIn : https://www.linkedin.com/in/pan-khai-bing-/
-   Email : khaibing98.gmail.com
+Email : khaibing98.gmail.com
 
 
 
