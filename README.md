@@ -18,8 +18,8 @@ Sales Analysis
 - Analyze retail datasets by performing data cleaning and exploratory data analysis (EDA), using Pandas and Matplotlib to uncover sales trends and insights.
   
 ## 📬 Connect with me
-LinkedIn : https://www.linkedin.com/in/pan-khai-bing-/
-Email : khaibing98.gmail.com
+- LinkedIn : https://www.linkedin.com/in/pan-khai-bing-/
+- Email : khaibing98.gmail.com
 
 
 
