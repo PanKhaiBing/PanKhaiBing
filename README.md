@@ -11,10 +11,10 @@ This portfolio highlights some of the projects I've worked on using Python and v
 - Tableau (Dashboards, Data Visualization)
 
 ## 📂 Projects
-Bank Telemarketing Data Analysis
+Bank Telemarketing Campaign Analysis
 - Analyze bank telemarketing campaign data to provide insights and build predictive models on predicting customer term deposit subscriptions.
 
-Sales Analysis
+Retail Sales Data Analysis
 - Analyze retail datasets by performing data cleaning and exploratory data analysis (EDA), using Pandas and Matplotlib to uncover sales trends and insights.
   
 ## 📬 Connect with me
